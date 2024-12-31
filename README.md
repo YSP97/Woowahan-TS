@@ -4,10 +4,15 @@
 
 <img src="https://github.com/user-attachments/assets/5abf30b2-e7f3-45ed-8d4a-c7eea44e67d0" alt="스터디 이미지" width="200px">
 <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Python&logoColor=white">
+<br>
 <br>
 <br>
 
 #### 일정표📅
+
+> 2024.12.31 - 2025.01.15
 
 <table style="margin: 0 auto">
   <thead align="center">
