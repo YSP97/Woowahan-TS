@@ -12,7 +12,7 @@
 
 #### 일정표📅
 
-> 2024.12.31 - 2025.01.15
+> 2024.12.31 - 2025.01.14
 
 <table style="margin: 0 auto">
   <thead align="center">
@@ -30,7 +30,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td><a href="">31</a></td>
+      <td><a href="/241231/2장 타입.md">31</a></td>
       <td><a href="">1</a></td>
       <td><a href="">2</a></td>
       <td><a href="">3</a></td>
@@ -49,7 +49,7 @@
       <td><a href="">12</a></td>
       <td><a href="">13</a></td>
       <td><a href="">14</a></td>
-      <td><a href="">15</a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
