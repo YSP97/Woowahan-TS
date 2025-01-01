@@ -14,47 +14,82 @@
 
 > 2024.12.31 - 2025.01.14
 
-<table style="margin: 0 auto">
-  <thead align="center">
-    <tr>
-      <th>일</th>
-      <th>월</th>
-      <th>화</th>
-      <th>수</th>
-      <th>목</th>
-      <th>금</th>
-      <th>토</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td></td>
-      <td></td>
-      <td><a href="/241231/2장 타입.md">31</a></td>
-      <td><a href="">1</a></td>
-      <td><a href="">2</a></td>
-      <td><a href="">3</a></td>
-      <td><a href="">4</a></td>
-    </tr>
-    <tr>
-      <td><a href="">5</a></td>
-      <td><a href="">6</a></td>
-      <td><a href="">7</a></td>
-      <td><a href="">8</a></td>
-      <td><a href="">9</a></td>
-      <td><a href="">10</a></td>
-      <td><a href="">11</a></td>
-    </tr>
-    <tr>
-      <td><a href="">12</a></td>
-      <td><a href="">13</a></td>
-      <td><a href="">14</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<table>
+<tbody>
 
+<tr>
+<td align="center" colspan="5">1주차</td>
+</tr>
+
+<tr>
+<td align="center">24.12.31</td>
+<th align="left"><a href="/241231/2장 타입.md">2장 타입</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.02</td>
+<th align="left"><a href="/250101/3장 고급 타입.md">3장 고급 타입</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.04</td>
+<th align="left"><a href="">4장 타입 확장하기・좁히기</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.06</td>
+<th align="left"><a href="">5장 타입 활용하기</a></th>
+</tr>
+<tr>
+
+<tr>
+<td align="center">25.01.07</td>
+<th align="left"><a href="">6장 타입스크립트 컴파일</a></th>
+</tr>
+
+<tr>
+<td align="center" colspan="5">2주차</td>
+</tr>
+
+<tr>
+<td align="center">25.01.10</td>
+<th align="left"><a href="">7장 비동기 호출</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.12</td>
+<th align="left"><a href="">8장 JSX에서 TSX로로</a></th>
+</tr>
+
+<tr>
+<td align="center" colspan="5">3주차</td>
+</tr>
+
+<tr>
+<td align="center">25.01.13</td>
+<th align="left"><a href="">9장 훅</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.14</td>
+<th align="left"><a href="">10장 상태 관리</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.15</td>
+<th align="left"><a href="">11장 CSS-in-JS</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.16</td>
+<th align="left"><a href="">12장 타입스크립트 프로젝트 관리</a></th>
+</tr>
+
+<tr>
+<td align="center">25.01.17</td>
+<th align="left"><a href="">13장 타입스크립트와 객체 지향</a></th>
+</tr>
+
+</tbody>
+</table>
 </div>
