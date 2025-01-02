@@ -58,7 +58,7 @@
 
 <tr>
 <td align="center">25.01.12</td>
-<th align="left"><a href="">8장 JSX에서 TSX로로</a></th>
+<th align="left"><a href="">8장 JSX에서 TSX로</a></th>
 </tr>
 
 <tr>
