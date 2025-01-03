@@ -27,13 +27,13 @@
 </tr>
 
 <tr>
-<td align="center">25.01.02</td>
-<th align="left"><a href="/250101/3장 고급 타입.md">3장 고급 타입</a></th>
+<td align="center">25.01.03</td>
+<th align="left"><a href="/250101-250102/3장 고급 타입.md">3장 고급 타입</a></th>
 </tr>
 
 <tr>
 <td align="center">25.01.04</td>
-<th align="left"><a href="">4장 타입 확장하기・좁히기</a></th>
+<th align="left"><a href="/250103-250104/4장 타입 확장하기・좁히기.md">4장 타입 확장하기・좁히기</a></th>
 </tr>
 
 <tr>
